@@ -110,6 +110,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriquegonzalezz&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
 </p>
 
+<div align="center">
+  <img 
+    src="https://github.com/Enriquegonzalezz/Enriquegonzalezz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" 
+    alt="Snake dark" 
+    width="100%"
+  />
+  <img 
+    src="https://github.com/Enriquegonzalezz/Enriquegonzalezz/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" 
+    alt="Snake light" 
+    width="100%"
+  />
+</div>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enriquegonzalezz&theme=github-dark&hide_border=true" alt="GitHub Streak">
 </p>
@@ -117,3 +130,5 @@
 <p align="center">
   <img src="https://github.com/Enriquegonzalezz/Enriquegonzalezz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
+
+
