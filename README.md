@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Enrique+Gonzalez;Computer+Engineer (WP);Frontend+Developer;Mobile+Developer">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Enrique+Gonzalez;Computer+Engineer+(WP);Frontend+Developer;Mobile+Developer">
 </p>
 
 <p align="center">
@@ -102,14 +102,15 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Enriquegonzalezz&show_icons=true&theme=github_dark&hide_border=true" alt="Enrique's GitHub stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enriquegonzalezz&theme=github_dark&hide_border=true&layout=compact" alt="Top Languages">
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enriquegonzalezz&theme=github-dark&hide_border=true" alt="GitHub Streak">
+</div>
 
+---
+
+## 🐍 Contribution Snake 
 <div align="center">
   <img 
     src="https://github.com/Enriquegonzalezz/Enriquegonzalezz/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only" 
@@ -122,13 +123,3 @@
     width="100%"
   />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Enriquegonzalezz&theme=github-dark&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github.com/Enriquegonzalezz/Enriquegonzalezz/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</p>
-
-
