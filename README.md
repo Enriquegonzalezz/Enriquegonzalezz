@@ -21,7 +21,7 @@
 <a href="mailto:Enriquealfonzo123@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/Enriquegonzalezz" target="_blank">
+<a href="https://www.linkedin.com/in/enriquegonzadev" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 </p>
 <br>
@@ -58,6 +58,20 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </a>
 
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</a>
+
+<a href="https://angular.io/" target="_blank">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+</a>
+<a href="https://graphql.org/" target="_blank">
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white">
+</a>
 <!-- Mobile Development -->
 <a href="https://reactnative.dev/" target="_blank">
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
